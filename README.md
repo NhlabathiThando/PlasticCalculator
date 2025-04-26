@@ -1,5 +1,4 @@
 ![meamngirlCalculator](https://github.com/user-attachments/assets/380a2a60-fff0-499c-a9c2-22a8a8ea41e9)
-![meamngirlCalculator](https://github.com/user-attachments/assets/c7323ff3-39b0-49b5-b5f4-46894ba0b7b8)
 # PlasticCalculator
 A fun and fabulous Mean Girls-themed calculator built with JavaFX!
 Every button press comes with sass, style, and iconic quotes from the Plastics.
