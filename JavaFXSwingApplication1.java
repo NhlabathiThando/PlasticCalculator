@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Created by Thando Khanyisile Nhlabathi.
+ * Student at Eduvos graduating in 2026
+ *created project in 2023 as a school project but published it on git in 2025
  */
 package javafxswingapplication1;    
    import javafx.application.Application;
